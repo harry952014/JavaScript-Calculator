@@ -1,0 +1,78 @@
+body{
+  background : url('https://images.alphacoders.com/773/77381.jpg');
+  padding: 2%;
+  
+}
+
+
+h1 {
+  padding: 2%;
+  font-size: 5em;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: black;
+}
+
+a {
+  margin: 5px;
+  width : 3vw;
+  cursor: pointer;
+  font-weight: bold;
+  
+}
+
+#answer {
+  background: #8fbc8f;
+  width : 250px;
+  height: 70px;
+  margin-right: auto;
+  margin-left: auto;
+  border-style: solid;
+  font-size: 30px;
+    
+  
+}
+
+#display{
+  float: right;
+  padding-right: 2%;
+  font-family: 'Orbitron', sans-serif;
+  
+}
+#subDisp{
+  float: right;
+  font-size:0.5em;
+  padding-right: 2%;
+  font-family: 'Orbitron', sans-serif;
+  
+}
+
+#cover{
+  background: #191919;
+  width : 300px;
+  margin: auto;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 5%;
+  box-shadow: 10px 10px 5px dark ;
+  
+}
+
+#keyPad {
+  padding-top : 4%;
+  
+}
+
+.bigButton{
+  
+  width:11vw;
+}
+
+.btn-primary{
+  background: grey;
+}
+
+footer {
+  
+  margin-top : 2%;
+}
+}
